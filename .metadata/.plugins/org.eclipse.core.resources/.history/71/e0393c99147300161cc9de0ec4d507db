@@ -1,0 +1,7 @@
+package com.web1.servlets;
+
+
+
+public class TestServlet1 extends HttpServlet {
+
+}

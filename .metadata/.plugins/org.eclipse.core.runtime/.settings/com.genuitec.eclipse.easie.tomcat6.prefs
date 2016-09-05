@@ -1,0 +1,11 @@
+#Mon Sep 05 10:43:49 CST 2016
+PREPEND_CLASSPATH1=F\:\\java\\apache-tomcat-7.0.42\\bin\\tomcat-juli.jar
+TOMCAT_HOME=F\:\\java\\apache-tomcat-7.0.42
+TOMCAT_TEMP=F\:\\java\\apache-tomcat-7.0.42\\temp
+LIBRARY_PATH="E\:\\java\\jdk1.7.0_79\\bin;F\:\\java\\apache-tomcat-7.0.42\\bin"
+TOMCAT_BASE=F\:\\java\\apache-tomcat-7.0.42
+ENDORSED_DIRS="F\:\\java\\apache-tomcat-7.0.42/common/endorsed"
+eclipse.preferences.version=1
+JDK_INSTALLATION_NAME=jdk1.7.0_79
+SERVER_ENABLEMENT=true
+JDK_HOME=E\:\\java\\jdk1.7.0_79

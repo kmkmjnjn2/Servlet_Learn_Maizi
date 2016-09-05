@@ -1,0 +1,17 @@
+package com.web1.servlets;
+
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class TestServlet2 extends HttpServlet {
+	public void init(){}
+	public void destory(){}
+	public void doPost(HttpServletRequest request,HttpServletResponse response){
+		String uname = request.getParameter("username");
+		String pwd = request.getParameter("psd");
+		System.out.println("username:"+uname+"  psd:"+pwd);
+		
+	}
+	
+}

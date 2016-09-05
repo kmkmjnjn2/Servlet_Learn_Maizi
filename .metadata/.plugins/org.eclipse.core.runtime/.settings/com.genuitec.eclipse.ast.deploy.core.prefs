@@ -1,0 +1,13 @@
+#Mon Sep 05 11:04:10 CST 2016
+tomcat6Server.web1.IEARProjectName=
+tomcat6Server.web1.isDeployed=true
+tomcat6Server.web1.shouldBackup=false
+tomcat6Server.web1.altContextRoot=
+tomcat6Server.web1.deploymentPath=F\:\\java\\apache-tomcat-7.0.42\\webapps\\web1
+tomcat6Server.web1.deployIsOverProject=false
+eclipse.preferences.version=1
+tomcat6Server.web1.isUptoDate=true
+tomcat6Server.web1.type=WebDeployment
+tomcat6Server.web1.contextRoot=/web1
+tomcat6Server.web1.isExploded=true
+tomcat6Server.web1.shouldOverwrite=false
